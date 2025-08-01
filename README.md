@@ -1,4 +1,4 @@
-# Welcome_-
+# Welcome!
 
 This is the repository of the courses offered by [Altuğ Yalçıntaş](https://sekerefe.github.io) at [the Department of Politics and Economics, Ankara University](https://polecon.ankara.edu.tr). 
 
