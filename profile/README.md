@@ -1,12 +1,12 @@
 # Welcome!
 
-This is a GitHub organisation for the courses offered by [Altuğ Yalçıntaş](https://ayalcintas.notion.site) at [the Department of Politics and Economics, Ankara University](https://polecon.ankara.edu.tr). 
+This is a GitHub organisation for the courses offered by [Altuğ Yalçıntaş](https://ayalcintas.notion.site) at [the Department of Politics and Economics, Ankara University](https://polecon.ankara.edu.tr), [the Department of Economics, TED University](https://econ.tedu.edu.tr/en), and [Bilimler Köyü](https://bilimler.org/etkinlikler/etkinlikler/iktisat/114). 
 
 ### Courses
-* [ECO339: Economics of AI](https://github.com/Al2-courses/EconomicsOfAI)
-* [ENG201-202: Advanced Reading and Communication](https://github.com/Al2-courses/AdvancedReadings)
-* [PEC112: Research Methods with AI](https://github.com/Al2-courses/ResearchMethodsWithAI)
-* [PEC204: History of Economic Thought](https://github.com/Al2-courses/HistoryOfEconThought)
+* [Economics of AI](https://github.com/Al2-courses/EconomicsOfAI)
+* [Advanced Reading and Communication](https://github.com/Al2-courses/AdvancedReadings)
+* [Research Methods with AI](https://github.com/Al2-courses/ResearchMethodsWithAI)
+* [History of Economic Thought](https://github.com/Al2-courses/HistoryOfEconThought)
 * [Computational Social Sciences](https://github.com/Al2-courses/ComputationalSocialScience)
 * [Kod ve Sermaye: Yapay Zekânın Politik Ekonomisi](https://github.com/Al2-courses/Kod-ve-Sermaye)
 
