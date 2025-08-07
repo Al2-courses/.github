@@ -8,7 +8,8 @@ This is a GitHub organisation for the courses offered by [Altuğ Yalçıntaş](h
 * [PEC112: Research Methods with AI](https://github.com/Al2-courses/ResearchMethodsWithAI)
 * [PEC204: History of Economic Thought](https://github.com/Al2-courses/HistoryOfEconThought)
 * [Computational Social Sciences](https://github.com/Al2-courses/ComputationalSocialScience)
+* [Kod ve Sermaye: Yapay Zekânın Politik Ekonomisi](https://github.com/Al2-courses/Kod-ve-Sermaye)
 
 ### Current Research
 
-Additionally, *The Turkish Political Economy Database*, a digital humanities project lead by Al2, is available at [the Project's Github Page](https://github.com/sekerefe/TRPolEcon_Public).
+*The Turkish Political Economy Database*, a digital humanities project lead by Al2, is available at [the Project's Github Page](https://github.com/sekerefe/TRPolEcon_Public).
