@@ -1,6 +1,6 @@
 # Welcome!
 
-This is a GitHub organisation for the courses offered by [Altuğ Yalçıntaş](https://ayalcintas.notion.site) at [the Department of Politics and Economics, Ankara University](https://polecon.ankara.edu.tr), [the Department of Economics, TED University](https://econ.tedu.edu.tr/en), and [Bilimler Köyü](https://bilimler.org/etkinlikler/etkinlikler/iktisat/114). 
+This is a GitHub organisation for the courses offered by [Altuğ Yalçıntaş](https://ayalcintas.notion.site) at [the Department of Politics and Economics, Ankara University](https://polecon.ankara.edu.tr), [the Department of Economics, TED University](https://econ.tedu.edu.tr/en), and [Bilimler Köyü](https://bilimler.org/etkinlikler/etkinlikler/iktisat/114) 
 
 ### Courses
 * [Economics of AI](https://github.com/Al2-courses/EconomicsOfAI)
