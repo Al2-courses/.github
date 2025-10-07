@@ -9,7 +9,7 @@ This is a GitHub organisation for the courses offered by [Altuğ Yalçıntaş](h
 * [Research Methods with AI](https://github.com/Al2-courses/ResearchMethodsWithAI)
 * [History of Economic Thought](https://github.com/Al2-courses/HistoryOfEconThought)
 * [Kod ve Sermaye: Yapay Zekânın Politik Ekonomisi](https://github.com/Al2-courses/Kod-ve-Sermaye)
-* [Computational Social Sciences](https://github.com/Al2-courses/ComputationalSocialScience) - not available
+* [Computational Social Sciences](https://github.com/Al2-courses/ComputationalSocialScience) - not available at the moment
 
 ### Current Research
 
