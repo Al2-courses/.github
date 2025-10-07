@@ -4,11 +4,12 @@ This is a GitHub organisation for the courses offered by [Altuğ Yalçıntaş](h
 
 ### Courses
 * [Economics of AI](https://github.com/Al2-courses/EconomicsOfAI)
-* [Advanced Reading and Communication](https://github.com/Al2-courses/AdvancedReadings)
+* [Advanced Readings and Communication](https://github.com/Al2-courses/AdvancedReadings)
+* [World Economic History](https://github.com/Al2-courses/WorldEconomicHistory)
 * [Research Methods with AI](https://github.com/Al2-courses/ResearchMethodsWithAI)
 * [History of Economic Thought](https://github.com/Al2-courses/HistoryOfEconThought)
-* [Computational Social Sciences](https://github.com/Al2-courses/ComputationalSocialScience)
 * [Kod ve Sermaye: Yapay Zekânın Politik Ekonomisi](https://github.com/Al2-courses/Kod-ve-Sermaye)
+* [Computational Social Sciences](https://github.com/Al2-courses/ComputationalSocialScience) - not available
 
 ### Current Research
 
