@@ -4,7 +4,8 @@ This is a GitHub organisation for the courses offered by [Altuğ Yalçıntaş](h
 
 ### Courses
 * [Economics of AI](https://github.com/Al2-courses/EconomicsOfAI)
-* [Advanced Readings and Communication](https://github.com/Al2-courses/AdvancedReadings)
+* [Advanced Readings and Communication 1](https://github.com/Al2-courses/AdvancedReadings)
+* [Advanced Readings and Communication 2]
 * [World Economic History](https://github.com/Al2-courses/WorldEconomicHistory)
 * [Research Methods with AI](https://github.com/Al2-courses/ResearchMethodsWithAI)
 * [History of Economic Thought](https://github.com/Al2-courses/HistoryOfEconThought)
